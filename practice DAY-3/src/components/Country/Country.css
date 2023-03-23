@@ -1,0 +1,18 @@
+.country {
+    border: 3px solid red;
+    margin: 20px;
+    padding: 10px;
+    background: tomato;
+}
+
+.country img {
+    width: 200px;
+}
+
+.country img:hover {
+    width: 300px;
+}
+
+.country:hover {
+    border: 10px solid pink;
+}
