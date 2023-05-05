@@ -10,12 +10,12 @@ function App() {
   return (
     <div className="App">
 
-      {/* <h2>ALL Country Name </h2>
-      <Countries></Countries> */}
+      <h2>ALL Country Name </h2>
+      <Countries></Countries>
 
-      <District name='Jhenaidah' speciality='Bambo'></District>
+      {/* <District name='Jhenaidah' speciality='Bambo'></District>
       <District name='Jessore' speciality='Date'></District>
-      <District name='Kushtia' speciality='Shirt'></District>
+      <District name='Kushtia' speciality='Shirt'></District> */}
 
 
     </div>
